@@ -297,7 +297,7 @@
 #' {P for Part}
 #'
 #'@format A data frame with 45 columns:
-#'  \itemize{
+#' \itemize{
 #'   \item \code{Address}:
 #'             \itemize{
 #'                \item Farsi name: \emph{آدرس}
@@ -435,7 +435,7 @@
 #'              }
 #'     \item \code{DYCOL28}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'     \item \code{DYCOL29}:
@@ -521,7 +521,7 @@
 #'     \item \code{DYCOL45}:
 #'             \itemize{
 #'                \item Farsi name: \emph{نوع سوخت عمده مصرفی خانوار (تهيه آب گرم )}
-#'                \item Description: Waterheatingfuel
+#'                \item Description: Water heating fuel
 #'              }
 #' }
 "R96P2"
@@ -673,7 +673,7 @@
 #'              }
 #'     \item \code{DYCOL28}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'     \item \code{DYCOL29}:

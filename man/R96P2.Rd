@@ -146,7 +146,7 @@ A data frame with 45 columns:
 }
 \item \code{DYCOL28}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{DYCOL29}:
@@ -232,7 +232,7 @@ A data frame with 45 columns:
 \item \code{DYCOL45}:
 \itemize{
 \item Farsi name: \emph{نوع سوخت عمده مصرفی خانوار (تهيه آب گرم )}
-\item Description: Waterheatingfuel
+\item Description: Water heating fuel
 }
 }
 }
